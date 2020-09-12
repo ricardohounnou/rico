@@ -1,0 +1,27 @@
+body{
+    background-color: deepskyblue;
+}
+
+.bordure1{
+    border-style: double;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+    
+}
+.rico{
+    height: 150px;
+    width: 150px;
+    border-radius: 150px; 
+}
+.texte1{
+    border-style: groove;
+    
+}
+.texte2{
+    border-style: groove;
+}
+.texte3{
+    text-align: center;
+}
